@@ -31,7 +31,7 @@ iOS Focus, Do Not Disturb, Low Power Mode, notification permission, the silent s
 
 For support, contact:
 
-`zhy9495@users.noreply.github.com`
+`zhy9495@hotmail.com`
 
 Replace this email with the final support address before App Store submission.
 

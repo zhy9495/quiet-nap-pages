@@ -27,7 +27,7 @@ Quiet Nap may request notification permission so it can remind you when a nap en
 
 For privacy questions, contact:
 
-`zhy9495@users.noreply.github.com`
+`zhy9495@hotmail.com`
 
 Replace this email with the final support address before App Store submission.
 
